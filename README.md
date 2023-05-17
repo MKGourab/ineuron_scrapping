@@ -5,7 +5,7 @@
 5. Once the result page is displayed user can find a file with "selected course name.pdf" in the file path provided above.
 6. User needs to run db_op.py to add all the available courses to MongoDB & a SQL database with filename courses.db is generated in the file path mentioned above.
 7. The application uses logging to log all the information.
-8. Data is scraped only for learning purpose and is deleted and app removed from deployed server.
+8. Data is scraped only for learning purpose and is deleted.
   
   
   
