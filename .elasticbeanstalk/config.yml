@@ -2,7 +2,7 @@ branch-defaults:
   main:
     environment: null
 global:
-  application_name: web_scrape_ineuron
+  application_name: ineuron_scrapping
   branch: main
   default_ec2_keyname: null
   default_platform: Python 3.8
